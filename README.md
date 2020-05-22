@@ -1,2 +1,2 @@
-> # project-study
+># project-study
 
